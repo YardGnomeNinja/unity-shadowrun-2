@@ -1,0 +1,1853 @@
+fileFormatVersion: 2
+guid: 2372ce81958276b429493c6e9f8aaa36
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5621610547660008130
+    second: Jake_0_Idle_0
+  - first:
+      213: 2147586345567608429
+    second: Jake_0_Run_0
+  - first:
+      213: 3782155005451234405
+    second: Jake_0_Run_1
+  - first:
+      213: 5629710527875438972
+    second: Jake_0_Run_2
+  - first:
+      213: -2174766109888005757
+    second: Jake_0_Run_3
+  - first:
+      213: 7638718748734509772
+    second: Jake_0_Fire_0
+  - first:
+      213: -6588028120026065085
+    second: Jake_0_Fire_1
+  - first:
+      213: -2247122318267626615
+    second: Jake_0_Fire_2
+  - first:
+      213: 2303008862583529531
+    second: Jake_4_Idle_0
+  - first:
+      213: -627946723043889085
+    second: Jake_4_Run_0
+  - first:
+      213: -6864584178880448005
+    second: Jake_4_Run_1
+  - first:
+      213: -1335303313700651609
+    second: Jake_4_Run_2
+  - first:
+      213: -5515161835454932782
+    second: Jake_4_Run_3
+  - first:
+      213: -5627734871661950486
+    second: Jake_4_Fire_0
+  - first:
+      213: 4524393325562927365
+    second: Jake_4_Fire_1
+  - first:
+      213: -8414864530890570089
+    second: Jake_4_Fire_2
+  - first:
+      213: 251819015854604555
+    second: Jake_1_Idle_0
+  - first:
+      213: 5601085591040948978
+    second: Jake_1_Run_0
+  - first:
+      213: 1495038829494774546
+    second: Jake_1_Run_1
+  - first:
+      213: -2193901623706223884
+    second: Jake_1_Run_2
+  - first:
+      213: 8175339887632973241
+    second: Jake_1_Run_3
+  - first:
+      213: 1771944345554749813
+    second: Jake_1_Fire_0
+  - first:
+      213: -3029860759483653342
+    second: Jake_1_Fire_1
+  - first:
+      213: 1798053505832839659
+    second: Jake_1_Fire_2
+  - first:
+      213: -5623464014364110829
+    second: Jake_2_Idle_0
+  - first:
+      213: -4162771486071415641
+    second: Jake_2_Run_0
+  - first:
+      213: -3688717998432077196
+    second: Jake_2_Run_1
+  - first:
+      213: -2812404148053515105
+    second: Jake_2_Run_2
+  - first:
+      213: 112770853422531217
+    second: Jake_2_Run_3
+  - first:
+      213: 4269942081810855248
+    second: Jake_2_Fire_0
+  - first:
+      213: 5134880633693467771
+    second: Jake_2_Fire_1
+  - first:
+      213: 9030040447066237766
+    second: Jake_2_Fire_2
+  - first:
+      213: -6230267365156512322
+    second: Jake_3_Idle_0
+  - first:
+      213: -4198235238836687779
+    second: Jake_3_Run_0
+  - first:
+      213: 6562987085902855210
+    second: Jake_3_Run_1
+  - first:
+      213: -600741769836175711
+    second: Jake_3_Run_2
+  - first:
+      213: -8143744238598246792
+    second: Jake_3_Run_3
+  - first:
+      213: -7810346098631028425
+    second: Jake_3_Fire_0
+  - first:
+      213: 1485723583829815539
+    second: Jake_3_Fire_1
+  - first:
+      213: 367296469931892537
+    second: Jake_3_Fire_2
+  - first:
+      213: -5174221140660778998
+    second: Jake_7_Idle_0
+  - first:
+      213: -5698731709474023061
+    second: Jake_7_Run_0
+  - first:
+      213: 8164695880165264223
+    second: Jake_7_Run_1
+  - first:
+      213: 8069706925209748801
+    second: Jake_7_Run_2
+  - first:
+      213: -4912724019353982834
+    second: Jake_7_Run_3
+  - first:
+      213: 7664845721032680810
+    second: Jake_7_Fire_0
+  - first:
+      213: -8871980769958387790
+    second: Jake_7_Fire_1
+  - first:
+      213: 8518405509361274021
+    second: Jake_7_Fire_2
+  - first:
+      213: -1175198725652363077
+    second: Jake_6_Idle_0
+  - first:
+      213: -3659553886991733722
+    second: Jake_6_Run_0
+  - first:
+      213: -4346078484876725277
+    second: Jake_6_Run_1
+  - first:
+      213: 923252751488823950
+    second: Jake_6_Run_2
+  - first:
+      213: -6937724468587383416
+    second: Jake_6_Run_3
+  - first:
+      213: 2661570775095362448
+    second: Jake_6_Fire_0
+  - first:
+      213: 7524669912923135562
+    second: Jake_6_Fire_1
+  - first:
+      213: -1587807498645910987
+    second: Jake_6_Fire_2
+  - first:
+      213: -6895549315323713364
+    second: Jake_5_Idle_0
+  - first:
+      213: 190945659054928599
+    second: Jake_5_Run_0
+  - first:
+      213: -8572430655308727524
+    second: Jake_5_Run_1
+  - first:
+      213: -7074612281658219845
+    second: Jake_5_Run_2
+  - first:
+      213: 8705681889588364316
+    second: Jake_5_Run_3
+  - first:
+      213: -144878898002272309
+    second: Jake_5_Fire_0
+  - first:
+      213: -6166966599555616067
+    second: Jake_5_Fire_1
+  - first:
+      213: 2418021517361568307
+    second: Jake_5_Fire_2
+  - first:
+      213: 6285912514520907756
+    second: Jake_0
+  - first:
+      213: 5350955492053121551
+    second: Jake_1
+  - first:
+      213: 381060237469803124
+    second: Jake_2
+  - first:
+      213: -5705364590701319987
+    second: Jake_3
+  - first:
+      213: 6409333022842779489
+    second: Jake_4
+  - first:
+      213: -8755164594469859336
+    second: Jake_5
+  - first:
+      213: -4104805920565683736
+    second: Jake_6
+  - first:
+      213: -8596030601315838305
+    second: Jake_7
+  - first:
+      213: 8923670954232441378
+    second: Jake_8
+  - first:
+      213: 5376699135002068856
+    second: Jake_9
+  - first:
+      213: -3746673084676372460
+    second: Jake_10
+  - first:
+      213: 2915719617167077449
+    second: Jake_11
+  - first:
+      213: 640393169297002939
+    second: Jake_12
+  - first:
+      213: 1996286320652934410
+    second: Jake_13
+  - first:
+      213: -1471791217473538498
+    second: Jake_14
+  - first:
+      213: 9125736993155971056
+    second: Jake_15
+  - first:
+      213: 5313154987813711936
+    second: Jake_16
+  - first:
+      213: -8567778043957779699
+    second: Jake_17
+  - first:
+      213: 718477838217979053
+    second: Jake_18
+  - first:
+      213: 8061859463314587852
+    second: Jake_19
+  - first:
+      213: 7007891609034272078
+    second: Jake_20
+  - first:
+      213: 2171483389711747982
+    second: Jake_21
+  - first:
+      213: -587424191544117895
+    second: Jake_22
+  - first:
+      213: 2009461907156252732
+    second: Jake_23
+  - first:
+      213: -6390162564941662365
+    second: Jake_24
+  - first:
+      213: 3701659210763271591
+    second: Jake_25
+  - first:
+      213: 3072955083187934993
+    second: Jake_26
+  - first:
+      213: -5169563738201488242
+    second: Jake_27
+  - first:
+      213: -5755659465898958271
+    second: Jake_28
+  - first:
+      213: 4904934106544327488
+    second: Jake_29
+  - first:
+      213: 5862657266251711084
+    second: Jake_30
+  - first:
+      213: -9150414753009307639
+    second: Jake_31
+  - first:
+      213: -8730466490627554158
+    second: Jake_32
+  - first:
+      213: -3252356774898240895
+    second: Jake_33
+  - first:
+      213: 6303332035970172291
+    second: Jake_34
+  - first:
+      213: 3741773514169029227
+    second: Jake_35
+  - first:
+      213: -8508144203419720393
+    second: Jake_36
+  - first:
+      213: -3544860035192937375
+    second: Jake_37
+  - first:
+      213: 158843910826694032
+    second: Jake_38
+  - first:
+      213: 1753101663913751778
+    second: Jake_39
+  - first:
+      213: 697793629532621342
+    second: Jake_40
+  - first:
+      213: -6903611538876385414
+    second: Jake_41
+  - first:
+      213: -230841654469159379
+    second: Jake_42
+  - first:
+      213: 1463614906142070488
+    second: Jake_43
+  - first:
+      213: -5588755175540464517
+    second: Jake_44
+  - first:
+      213: -4674483662960249955
+    second: Jake_45
+  - first:
+      213: 6705020069907570817
+    second: Jake_46
+  - first:
+      213: -940777181831786914
+    second: Jake_47
+  - first:
+      213: 1023951454000435511
+    second: Jake_48
+  - first:
+      213: 582557262690815964
+    second: Jake_49
+  - first:
+      213: -4268790659081396189
+    second: Jake_50
+  - first:
+      213: 944905309296872828
+    second: Jake_51
+  - first:
+      213: -6842687527043187811
+    second: Jake_52
+  - first:
+      213: -2774903961502207241
+    second: Jake_53
+  - first:
+      213: -658552947077800151
+    second: Jake_54
+  - first:
+      213: -4216969257197226838
+    second: Jake_55
+  - first:
+      213: 841464017188356189
+    second: Jake_56
+  - first:
+      213: -922979029874906156
+    second: Jake_57
+  - first:
+      213: -2240512320266930092
+    second: Jake_58
+  - first:
+      213: -8168643581496997235
+    second: Jake_59
+  - first:
+      213: 8283552805808448568
+    second: Jake_60
+  - first:
+      213: 205157327648065862
+    second: Jake_61
+  - first:
+      213: 4777708154961086693
+    second: Jake_62
+  - first:
+      213: -8670230037895131288
+    second: Jake_63
+  - first:
+      213: 236045402268221511
+    second: Jake_64
+  - first:
+      213: -7953722774826296550
+    second: Jake_65
+  - first:
+      213: 3244836826023853595
+    second: Jake_66
+  - first:
+      213: 1316869515445637439
+    second: Jake_67
+  - first:
+      213: -1882285727325525082
+    second: Jake_68
+  - first:
+      213: 1046547417837645618
+    second: Jake_69
+  - first:
+      213: 8368835244996892052
+    second: Jake_70
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 432
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 432
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jake_0_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca2dde2209f30e40800000000000000
+      internalID: 5621610547660008130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_0_Run_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e59042762cdcd10800000000000000
+      internalID: 2147586345567608429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_0_Run_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ce26150f9ec7430800000000000000
+      internalID: 3782155005451234405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_0_Run_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79da4ac5efb02e40800000000000000
+      internalID: 5629710527875438972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_0_Run_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3893196debda1d1e0800000000000000
+      internalID: -2174766109888005757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_0_Fire_0
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 336
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2df65fa3e220a60800000000000000
+      internalID: 7638718748734509772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_0_Fire_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 336
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347df87645f9294a0800000000000000
+      internalID: -6588028120026065085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_0_Fire_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b4ec4482e90d0e0800000000000000
+      internalID: -2247122318267626615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_4_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 336
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b302ed0db5ee5ff10800000000000000
+      internalID: 2303008862583529531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_4_Run_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340391b48c51947f0800000000000000
+      internalID: -627946723043889085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_4_Run_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf970173f091cb0a0800000000000000
+      internalID: -6864584178880448005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_4_Run_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad787ff5bc087de0800000000000000
+      internalID: -1335303313700651609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_4_Run_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8daeef7853673b0800000000000000
+      internalID: -5515161835454932782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_4_Fire_0
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9c28483f446e1b0800000000000000
+      internalID: -5627734871661950486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_4_Fire_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509935222cfd9ce30800000000000000
+      internalID: 4524393325562927365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_4_Fire_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796cb330b45683b80800000000000000
+      internalID: -8414864530890570089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_1_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 288
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01c3bb8f04ae7300800000000000000
+      internalID: 251819015854604555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_1_Run_0
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fafd825bad0bbd40800000000000000
+      internalID: 5601085591040948978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_1_Run_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ba375f4e17fb410800000000000000
+      internalID: 1495038829494774546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_1_Run_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa76d6d812bd81e0800000000000000
+      internalID: -2193901623706223884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_1_Run_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdf1702054a47170800000000000000
+      internalID: 8175339887632973241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_1_Fire_0
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5798d8e7ef5379810800000000000000
+      internalID: 1771944345554749813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_1_Fire_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223e41031b5c3f5d0800000000000000
+      internalID: -3029860759483653342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_1_Fire_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9ef461328f3f810800000000000000
+      internalID: 1798053505832839659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_2_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31092a8f54175f1b0800000000000000
+      internalID: -5623464014364110829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_2_Run_0
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 240
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac9693836dda36c0800000000000000
+      internalID: -4162771486071415641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_2_Run_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 240
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47abdda268a0fccc0800000000000000
+      internalID: -3688717998432077196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_2_Run_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f946f6ef35558f8d0800000000000000
+      internalID: -2812404148053515105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_2_Run_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19284436e74a09100800000000000000
+      internalID: 112770853422531217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_2_Fire_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055f3d543b1e14b30800000000000000
+      internalID: 4269942081810855248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_2_Fire_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74f4570bb2c24740800000000000000
+      internalID: 5134880633693467771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_2_Fire_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64beac281f5215d70800000000000000
+      internalID: 9030040447066237766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_3_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd132c37d4a989a0800000000000000
+      internalID: -6230267365156512322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_3_Run_0
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5cac912b4fdcb5c0800000000000000
+      internalID: -4198235238836687779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_3_Run_1
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c37b08bf9641b50800000000000000
+      internalID: 6562987085902855210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_3_Run_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aedc2f0b8cb9a7f0800000000000000
+      internalID: -600741769836175711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_3_Run_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ea7bc23cb9bfe80800000000000000
+      internalID: -8143744238598246792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_3_Fire_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7315d32ba931c9390800000000000000
+      internalID: -7810346098631028425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_3_Fire_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0b8905ab95e9410800000000000000
+      internalID: 1485723583829815539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_3_Fire_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f9b818136e81500800000000000000
+      internalID: 367296469931892537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_7_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08099969497138b0800000000000000
+      internalID: -5174221140660778998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_7_Run_0
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69db8214b90ae0b0800000000000000
+      internalID: -5698731709474023061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_7_Run_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b885405a3de4170800000000000000
+      internalID: 8164695880165264223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_7_Run_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 144
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14503ae71bb5dff60800000000000000
+      internalID: 8069706925209748801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_7_Run_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8860ea788f72dbb0800000000000000
+      internalID: -4912724019353982834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_7_Fire_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65635cb2900f5a60800000000000000
+      internalID: 7664845721032680810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_7_Fire_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf9888de7460e480800000000000000
+      internalID: -8871980769958387790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_7_Fire_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac8536ada4773670800000000000000
+      internalID: 8518405509361274021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_6_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8cff84cfad0bfe0800000000000000
+      internalID: -1175198725652363077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_6_Run_0
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c25710127a63dc0800000000000000
+      internalID: -3659553886991733722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_6_Run_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e374fef4a0afa3c0800000000000000
+      internalID: -4346078484876725277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_6_Run_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82b4626c7d00dc00800000000000000
+      internalID: 923252751488823950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_6_Run_3
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885305c7a5048bf90800000000000000
+      internalID: -6937724468587383416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_6_Fire_0
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093ce12b48ccfe420800000000000000
+      internalID: 2661570775095362448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_6_Fire_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e5adb1b6ffc6860800000000000000
+      internalID: 7524669912923135562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_6_Fire_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a42871e79f6f9e0800000000000000
+      internalID: -1587807498645910987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_5_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca821f09e661e40a0800000000000000
+      internalID: -6895549315323713364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_5_Run_0
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d23f53b01066a200800000000000000
+      internalID: 190945659054928599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_5_Run_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b77a8dcbb980980800000000000000
+      internalID: -8572430655308727524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_5_Run_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2652cdc9de1dd90800000000000000
+      internalID: -7074612281658219845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_5_Run_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14477ccd8bc0d870800000000000000
+      internalID: 8705681889588364316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_5_Fire_0
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcfdf1de8694dfdf0800000000000000
+      internalID: -144878898002272309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_5_Fire_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2f9cb3d888a6aa0800000000000000
+      internalID: -6166966599555616067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jake_5_Fire_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a569142c98e8120800000000000000
+      internalID: 2418021517361568307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

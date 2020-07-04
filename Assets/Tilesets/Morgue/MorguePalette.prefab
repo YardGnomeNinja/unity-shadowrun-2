@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 8918647570576261545}
   - component: {fileID: 2768113117395578768}
   m_Layer: 31
-  m_Name: morgue-palette
+  m_Name: MorguePalette
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
